@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/random-no-generator-bg.png');
+  height: 100vh;
+  background-size: cover;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.sub-container {
+  background-color: #ffffff;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+.heading {
+  color: #0b69ff;
+}
+.paragraph {
+  color: #333333;
+}
